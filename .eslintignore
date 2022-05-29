@@ -1,0 +1,2 @@
+apps/**/vite.config.ts
+apps/**/*.d.ts

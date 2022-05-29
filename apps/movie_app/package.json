@@ -1,0 +1,23 @@
+{
+  "name": "movie_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint src pages --fix",
+    "type-check": "tsc --pretty"
+  },
+  "keywords": [],
+  "author": "Maico",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "10.4.2",
+    "postcss": "8.4.5",
+    "tailwindcss": "3.0.15"
+  },
+  "dependencies": {
+    "react-router-dom": "6.3.0"
+  }
+}
